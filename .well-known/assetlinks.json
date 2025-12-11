@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "com.pwabuilder.www.twa",
-        "sha256_cert_fingerprints": ["2C:CB:E7:2A:FA:74:09:FB:C2:55:C5:86:C8:1E:07:09:5E:4D:75:CF:5A:78:3A:61:CA:4D:65:91:11:3A:49:47"]
+        "package_name": "io.github.rossscar33.twa",
+        "sha256_cert_fingerprints": ["14:65:23:EE:44:E8:DC:F3:F1:8B:3B:7D:80:D5:73:14:FB:0B:EE:CC:D4:B4:E1:8A:87:E7:DB:4D:53:4C:8D:61"]
       }
     }]
