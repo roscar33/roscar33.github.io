@@ -1,10 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.roscar33.twa",
-    "sha256_cert_fingerprints": [
-      "68:45:DC:02:E2:99:AB:2B:91:C7:19:7D:1A:ED:24:73:76:C3:E8:9A:90:76:25:7E:45:E7:41:C3:87:DF:0A:CF"
-    ]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.pwabuilder.www.twa",
+        "sha256_cert_fingerprints": ["2C:CB:E7:2A:FA:74:09:FB:C2:55:C5:86:C8:1E:07:09:5E:4D:75:CF:5A:78:3A:61:CA:4D:65:91:11:3A:49:47"]
+      }
+    }]
