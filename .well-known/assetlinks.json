@@ -20,11 +20,3 @@
     }
   }
 ]
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.gifhthub.roscar33.twa",
-        "sha256_cert_fingerprints": ["57:E4:46:3E:DE:FC:0B:7F:92:1A:C8:F8:9B:4C:BD:9F:EC:89:07:5C:D6:72:48:3C:82:A4:6F:66:EC:08:85:1D"]
-      }
-    }]
