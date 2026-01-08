@@ -18,5 +18,16 @@
         "14:65:23:EE:44:E8:DC:F3:F1:8B:3B:7D:80:D5:73:14:FB:0B:EE:CC:D4:B4:E1:8A:87:E7:DB:4D:53:4C:8D:61"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.roscar33.twa2",
+      "sha256_cert_fingerprints": [
+        "91:62:C5:63:27:C3:B6:88:C9:4A:A2:6C:3B:68:EC:63:E3:27:85:FA:A8:81:52:99:DF:D8:D7:96:08:A8:80:78"
+      ]
+    }
   }
 ]
+
