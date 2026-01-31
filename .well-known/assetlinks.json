@@ -28,6 +28,15 @@
         "91:62:C5:63:27:C3:B6:88:C9:4A:A2:6C:3B:68:EC:63:E3:27:85:FA:A8:81:52:99:DF:D8:D7:96:08:A8:80:78"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ros3car33.twa",
+      "sha256_cert_fingerprints": [
+        "AB:A2:5B:D2:E0:DD:D0:3E:8F:EB:9A:8A:3D:1E:AB:EC:9D:2A:98:BB:9D:37:32:BF:AC:57:ED:23:AF:FD:51:DF"
+      ]
+    }
   }
 ]
-
